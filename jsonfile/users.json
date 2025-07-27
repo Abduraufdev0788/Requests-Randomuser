@@ -1,0 +1,62 @@
+[
+    {
+        "full_name": "Berit Welsch",
+        "email": "berit.welsch@example.com",
+        "gender": "female",
+        "country": "Germany"
+    },
+    {
+        "full_name": "Abigail Anderson",
+        "email": "abigail.anderson@example.com",
+        "gender": "female",
+        "country": "New Zealand"
+    },
+    {
+        "full_name": "Gualter Castro",
+        "email": "gualter.castro@example.com",
+        "gender": "male",
+        "country": "Brazil"
+    },
+    {
+        "full_name": "Samuel Denys",
+        "email": "samuel.denys@example.com",
+        "gender": "male",
+        "country": "Canada"
+    },
+    {
+        "full_name": "Maia Williams",
+        "email": "maia.williams@example.com",
+        "gender": "female",
+        "country": "New Zealand"
+    },
+    {
+        "full_name": "Madison Chen",
+        "email": "madison.chen@example.com",
+        "gender": "female",
+        "country": "New Zealand"
+    },
+    {
+        "full_name": "Gerónimo Contreras",
+        "email": "geronimo.contreras@example.com",
+        "gender": "male",
+        "country": "Mexico"
+    },
+    {
+        "full_name": "Jeannot Wind",
+        "email": "jeannot.wind@example.com",
+        "gender": "male",
+        "country": "Netherlands"
+    },
+    {
+        "full_name": "Marialba Mendes",
+        "email": "marialba.mendes@example.com",
+        "gender": "female",
+        "country": "Brazil"
+    },
+    {
+        "full_name": "Kent Davidson",
+        "email": "kent.davidson@example.com",
+        "gender": "male",
+        "country": "Australia"
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "first_name": "Rosemere",
+    "last_name": "Porto",
+    "gender": "female",
+    "email": "rosemere.porto@example.com",
+    "phone": "(65) 6095-9266",
+    "address": {
+        "street": "4722 Rua Vinte E Quatro de Outubro",
+        "city": "Guaruj\u00e1",
+        "country": "Brazil"
+    }
+}
