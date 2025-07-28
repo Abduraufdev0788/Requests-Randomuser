@@ -1,0 +1,62 @@
+[
+    {
+        "full_name": "Jeanine Le Gall",
+        "email": "jeanine.legall@example.com",
+        "phone": "077 826 94 70",
+        "country": "Switzerland"
+    },
+    {
+        "full_name": "Emilia Herrero",
+        "email": "emilia.herrero@example.com",
+        "phone": "940-067-738",
+        "country": "Spain"
+    },
+    {
+        "full_name": "Thaïs Lambert",
+        "email": "thais.lambert@example.com",
+        "phone": "02-96-53-97-81",
+        "country": "France"
+    },
+    {
+        "full_name": "Eleanor Matthews",
+        "email": "eleanor.matthews@example.com",
+        "phone": "051-635-1341",
+        "country": "Ireland"
+    },
+    {
+        "full_name": "Lili Patzelt",
+        "email": "lili.patzelt@example.com",
+        "phone": "0846-0006854",
+        "country": "Germany"
+    },
+    {
+        "full_name": "Ángeles Prieto",
+        "email": "angeles.prieto@example.com",
+        "phone": "931-804-035",
+        "country": "Spain"
+    },
+    {
+        "full_name": "Lily Miller",
+        "email": "lily.miller@example.com",
+        "phone": "B05 H07-8834",
+        "country": "Canada"
+    },
+    {
+        "full_name": "Augusta Van Soeren",
+        "email": "augusta.vansoeren@example.com",
+        "phone": "(055) 7662498",
+        "country": "Netherlands"
+    },
+    {
+        "full_name": "Gregória Campos",
+        "email": "gregoria.campos@example.com",
+        "phone": "(80) 6999-7720",
+        "country": "Brazil"
+    },
+    {
+        "full_name": "Zoe Denys",
+        "email": "zoe.denys@example.com",
+        "phone": "X08 W06-3700",
+        "country": "Canada"
+    }
+]

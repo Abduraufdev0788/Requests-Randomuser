@@ -1,0 +1,52 @@
+[
+    {
+        "full name": "Roberta Hall",
+        "email": "roberta.hall@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/women/85.jpg"
+    },
+    {
+        "full name": "Pauline Hughes",
+        "email": "pauline.hughes@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/women/20.jpg"
+    },
+    {
+        "full name": "Maëlyne Vincent",
+        "email": "maelyne.vincent@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+        "full name": "Kenan Ayverdi",
+        "email": "kenan.ayverdi@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/men/0.jpg"
+    },
+    {
+        "full name": "Eugenio Santos",
+        "email": "eugenio.santos@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/men/0.jpg"
+    },
+    {
+        "full name": "Nicky Martin",
+        "email": "nicky.martin@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/women/18.jpg"
+    },
+    {
+        "full name": "Dylan Barnaby",
+        "email": "dylan.barnaby@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/men/39.jpg"
+    },
+    {
+        "full name": "Annamaria Masson",
+        "email": "annamaria.masson@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/women/10.jpg"
+    },
+    {
+        "full name": "Floyd Hudson",
+        "email": "floyd.hudson@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/men/61.jpg"
+    },
+    {
+        "full name": "Clemente de Jesús",
+        "email": "clemente.dejesus@example.com",
+        "picture.large": "https://randomuser.me/api/portraits/men/89.jpg"
+    }
+]
