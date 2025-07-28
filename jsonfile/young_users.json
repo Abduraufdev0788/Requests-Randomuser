@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kathryn",
+        "brith_year": "1993",
+        "email": "kathryn.long@example.com"
+    },
+    {
+        "name": "Nadine",
+        "brith_year": "2000",
+        "email": "nadine.pfeffer@example.com"
+    },
+    {
+        "name": "Radim",
+        "brith_year": "2000",
+        "email": "radim.gatcuk@example.com"
+    },
+    {
+        "name": "Evelia",
+        "brith_year": "1994",
+        "email": "evelia.rios@example.com"
+    }
+]
